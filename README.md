@@ -12,7 +12,7 @@ if gameID == 155615604 then
 
 	if andriod == linux then
 
-	  print("Andriod is built wwith linux!")
+	print("Andriod is built wwith linux!")
     --// Very useful code to see time ran or something this pmo!
   	task.wait()
   	print("Time Taken To Run???: " .. os.clock() - t)
