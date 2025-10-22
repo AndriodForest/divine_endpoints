@@ -13,6 +13,10 @@ if gameID == 155615604 then
 	  print("Andriod is built wwith linux!")
 	end
 
+else
+
+	print("This game isn't supported!")
+
 end
 --// Best code on the market!
 ```
