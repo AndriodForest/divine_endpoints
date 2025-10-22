@@ -8,9 +8,15 @@ if gameID == 155615604 then
 
 	--// Run W code...
 	local andriod = linux
+	local t = os.clock()
 
 	if andriod == linux then
+
 	  print("Andriod is built wwith linux!")
+    --// Very useful code to see time ran or something this pmo!
+  	task.wait()
+  	print("Time Taken To Run???: " .. os.clock() - t)
+
 	end
 
 else
@@ -18,5 +24,5 @@ else
 	print("This game isn't supported!")
 
 end
---// Best code on the market!
 ```
+# Yes, above is very useful line(s) of code!
