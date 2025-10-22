@@ -3,8 +3,8 @@
 
 ```lua
 local gameID = game.PlaceId
-
-if gameID == 155615604 then
+--[[ Game Name: Prison Life, yes the game updated their anti-chat after 1000_67 years! ]]
+if gameID == 155615604 then 
 
 	--// Run W code...
 	local andriod = linux
