@@ -1,6 +1,104 @@
 {
   "Divine Land": {
-    "pfp": "https://raw.githubusercontent.com/AndriodForest/divine_endpoints/refs/heads/main/Divine_Logo.png",
-    "referral": "15"
+    "pfp": "https://raw.githubusercontent.com/AndriodForest/divine_endpoints/refs/heads/main/Divine_New_Logo.png",
+    "referral": "15",
+    "zenith": {
+      "7": {
+        "price": "6.49",
+        "url": "https://divine.land/product/zenith/"
+      },
+      "30": {
+        "price": "19.99",
+        "url": "https://divine.land/product/zenith/"
+      },
+      "payments": [
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin"
+      ]
+    },
+    "wave": {
+      "7": {
+        "price": "7.47",
+        "url": "https://divine.land/product/wave/"
+      },
+      "30": {
+        "price": "24.49",
+        "url": "https://divine.land/product/wave/"
+      },
+      "payments": [
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin"
+      ]
+    },
+    "potassium": {
+      "payments": [
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin"
+      ],
+      "lifetime": {
+        "price": "21.99",
+        "url": "https://divine.land/product/potassium/"
+      }
+    },
+    "matcha": {
+      "payments": [
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin"
+      ],
+      "lifetime": {
+        "price": "10.75",
+        "url": "https://divine.land/product/matcha/"
+      }
+    },
+    "serotonin": {
+      "30": {
+        "price": "9.99",
+        "url": "https://divine.land/product/serotonin/"
+      },
+      "payments": [
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin"
+      ]
+    }
   }
 }
