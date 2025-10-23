@@ -5,11 +5,11 @@
     "zenith": {
       "7": {
         "price": "6.49",
-        "url": "https://divine.land/product/zenith/"
+        "url": "https://divine.land/product/zenith/?aff=>affiliate<"
       },
       "30": {
         "price": "19.99",
-        "url": "https://divine.land/product/zenith/"
+        "url": "https://divine.land/product/zenith/?aff=>affiliate<"
       },
       "payments": [
         "paypal",
@@ -27,11 +27,11 @@
     "wave": {
       "7": {
         "price": "7.47",
-        "url": "https://divine.land/product/wave/"
+        "url": "https://divine.land/product/wave/?aff=>affiliate<"
       },
       "30": {
         "price": "24.49",
-        "url": "https://divine.land/product/wave/"
+        "url": "https://divine.land/product/wave/?aff=>affiliate<"
       },
       "payments": [
         "paypal",
@@ -61,7 +61,7 @@
       ],
       "lifetime": {
         "price": "21.99",
-        "url": "https://divine.land/product/potassium/"
+        "url": "https://divine.land/product/potassium/?aff=>affiliate<"
       }
     },
     "matcha": {
@@ -79,13 +79,13 @@
       ],
       "lifetime": {
         "price": "10.75",
-        "url": "https://divine.land/product/matcha/"
+        "url": "https://divine.land/product/matcha/?aff=>affiliate<"
       }
     },
     "serotonin": {
       "30": {
         "price": "9.99",
-        "url": "https://divine.land/product/serotonin/"
+        "url": "https://divine.land/product/serotonin/?aff=>affiliate<"
       },
       "payments": [
         "paypal",
