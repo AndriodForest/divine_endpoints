@@ -2,36 +2,14 @@
   "Divine Land": {
     "pfp": "https://raw.githubusercontent.com/AndriodForest/divine_endpoints/refs/heads/main/Divine_New_Logo.png",
     "referral": "15",
-    "zenith": {
-      "7": {
-        "price": "6.49",
-        "url": "https://divine.land/product/zenith/?aff=>affiliate<"
-      },
-      "30": {
-        "price": "19.99",
-        "url": "https://divine.land/product/zenith/?aff=>affiliate<"
-      },
-      "payments": [
-        "paypal",
-        "visa",
-        "mastercard",
-        "american-express",
-        "google-pay",
-        "apple-pay",
-        "crypto",
-        "bitcoin",
-        "ethereum",
-        "litecoin"
-      ]
-    },
     "wave": {
       "7": {
         "price": "7.47",
-        "url": "https://divine.land/product/wave/?aff=>affiliate<"
+        "url": "https://divine.land/product/wave/?aff=keyempire"
       },
       "30": {
         "price": "24.49",
-        "url": "https://divine.land/product/wave/?aff=>affiliate<"
+        "url": "https://divine.land/product/wave/?aff=keyempire"
       },
       "payments": [
         "paypal",
@@ -47,24 +25,10 @@
       ]
     },
     "potassium": {
-      "payments": [
-        "paypal",
-        "visa",
-        "mastercard",
-        "american-express",
-        "google-pay",
-        "apple-pay",
-        "crypto",
-        "bitcoin",
-        "ethereum",
-        "litecoin"
-      ],
       "lifetime": {
         "price": "21.99",
-        "url": "https://divine.land/product/potassium/?aff=>affiliate<"
-      }
-    },
-    "matcha": {
+        "url": "https://divine.land/product/potassium/?aff=keyempire"
+      },
       "payments": [
         "paypal",
         "visa",
@@ -76,16 +40,30 @@
         "bitcoin",
         "ethereum",
         "litecoin"
-      ],
+      ]
+    },
+    "matcha": {
       "lifetime": {
         "price": "10.75",
-        "url": "https://divine.land/product/matcha/?aff=>affiliate<"
-      }
+        "url": "https://divine.land/product/matcha/?aff=keyempire"
+      },
+      "payments": [
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin"
+      ]
     },
     "serotonin": {
       "30": {
         "price": "9.99",
-        "url": "https://divine.land/product/serotonin/?aff=>affiliate<"
+        "url": "https://divine.land/product/serotonin/?aff=keyempire"
       },
       "payments": [
         "paypal",
