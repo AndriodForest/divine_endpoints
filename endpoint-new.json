@@ -21,7 +21,8 @@
         "crypto",
         "bitcoin",
         "ethereum",
-        "litecoin"
+        "litecoin",
+        "Robux"
       ]
     },
     "potassium": {
@@ -39,7 +40,8 @@
         "crypto",
         "bitcoin",
         "ethereum",
-        "litecoin"
+        "litecoin",
+        "Robux"
       ]
     },
     "matcha": {
@@ -57,7 +59,8 @@
         "crypto",
         "bitcoin",
         "ethereum",
-        "litecoin"
+        "litecoin",
+        "Robux"
       ]
     },
     "serotonin": {
@@ -75,7 +78,31 @@
         "crypto",
         "bitcoin",
         "ethereum",
-        "litecoin"
+        "litecoin",
+        "Robux"
+      ]
+    },
+    "volt": {
+      "7": {
+        "price": "5.49",
+        "url": "https://divine.land/product/volt/?aff=keyempire"
+      },
+      "30": {
+        "price": "18.99",
+        "url": "https://divine.land/product/volt/?aff=keyempire"
+      },
+      "payments": [
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin",
+        "Robux"
       ]
     }
   }
