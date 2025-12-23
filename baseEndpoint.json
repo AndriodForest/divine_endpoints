@@ -104,6 +104,28 @@
         "litecoin",
         "Robux"
       ]
+    },
+    "rift": {
+      "7": {
+        "price": "2.49",
+        "url": "https://divine.land/product/rift/"
+      },
+      "14": {
+        "price": "3.99",
+        "url": "https://divine.land/product/rift/"
+      },
+      "30": {
+        "price": "5.99",
+        "url": "https://divine.land/product/rift/"
+      },
+      "payments": [
+        "Bank Tranfer",
+        "Card",
+        "Cash App",
+        "Crypto",
+        "PayPal",
+        "Robux"
+      ]
     }
   }
 }
