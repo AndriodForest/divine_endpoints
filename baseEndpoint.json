@@ -119,11 +119,16 @@
         "url": "https://divine.land/product/rift/"
       },
       "payments": [
-        "Bank Tranfer",
-        "Card",
-        "Cash App",
-        "Crypto",
-        "PayPal",
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin",
         "Robux"
       ]
     }
