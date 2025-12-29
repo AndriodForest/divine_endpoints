@@ -2,29 +2,6 @@
   "Divine Land": {
     "pfp": "https://raw.githubusercontent.com/AndriodForest/divine_endpoints/refs/heads/main/Divine_New_Logo.png",
     "referral": "15",
-    "wave": {
-      "7": {
-        "price": "7.47",
-        "url": "https://divine.land/product/wave/?aff=keyempire"
-      },
-      "30": {
-        "price": "24.49",
-        "url": "https://divine.land/product/wave/?aff=keyempire"
-      },
-      "payments": [
-        "paypal",
-        "visa",
-        "mastercard",
-        "american-express",
-        "google-pay",
-        "apple-pay",
-        "crypto",
-        "bitcoin",
-        "ethereum",
-        "litecoin",
-        "Robux"
-      ]
-    },
     "potassium": {
       "lifetime": {
         "price": "22.99",
