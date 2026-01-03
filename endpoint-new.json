@@ -85,15 +85,40 @@
     "rift": {
       "7": {
         "price": "2.49",
-        "url": "https://divine.land/product/rift/"
+        "url": "https://divine.land/product/rift/?aff=keyempire"
       },
       "14": {
         "price": "3.99",
-        "url": "https://divine.land/product/rift/"
+        "url": "https://divine.land/product/rift/?aff=keyempire"
       },
       "30": {
         "price": "5.99",
-        "url": "https://divine.land/product/rift/"
+        "url": "https://divine.land/product/rift/?aff=keyempire"
+      },
+      "payments": [
+        "paypal",
+        "visa",
+        "mastercard",
+        "american-express",
+        "google-pay",
+        "apple-pay",
+        "crypto",
+        "bitcoin",
+        "ethereum",
+        "litecoin",
+        "Robux"
+      ]
+    },
+    "volcano": {
+      "7": {
+        "price": "5.97",
+        "url": "https://divine.land/product/volcano/?aff=keyempire",
+        "deal": true
+      },
+      "30": {
+        "price": "19.97",
+        "url": "https://divine.land/product/volcano/?aff=keyempire",
+        "deal": true
       },
       "payments": [
         "paypal",
